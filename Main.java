@@ -9,5 +9,8 @@ public class Main{
 
     System.out.println(new Date());
     System.out.println("added one more file");
+
+    Student student=new Student();
+    student.sayHello();
   }
 }
